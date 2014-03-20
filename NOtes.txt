@@ -1,0 +1,6 @@
+RUbrieken als 
+ - Skos:Concept Schemes ?
+ - Skos:Collections ?
+ - Skos:Broader terms?
+ - Skos:Relatiosn?
+ - Niod-specific with mapping?
