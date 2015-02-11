@@ -55,3 +55,10 @@
 	void:dataDump
 		<pillars.ttl>,
 		<pillars_expanded>.
+		
+<niod-vk-enrichments>
+	a void:Dataset ;
+	lib:source <http://purl.org/collections/nl/niod/> ;
+	dcterms:title "Verrijkt Koninkrijk enrichments"@nl ;
+	void:dataDump
+		<qhp_dates.ttl>.		
