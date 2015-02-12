@@ -62,5 +62,5 @@
 	dcterms:title "Verrijkt Koninkrijk enrichments"@nl ;
 	void:dataDump
 		<qhp_dates.ttl>,
-		<entity_partofs.ttl>.
+		<entity_partofs.ttl>,
 		<botb_partofs.ttl>.		
