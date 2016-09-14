@@ -48,6 +48,14 @@
 		<alignments/ner_all_to_dbp_en.ttl>,
 		<alignments/ner_all_to_dbp_nl.ttl>.
 		
+<niod-vk-dbpediadump>
+ a void:Dataset ;
+        dcterms:title "Verrijkt Koninkrijk partial DBpedia dump"@nl ;
+        lib:source <http://purl.org/collections/nl/niod/> ;
+        dcterms:title "Verrijkt Koninkrijk Named Entities"@nl ;
+        void:dataDump
+                <DBPedia/dbpedia_dump.ttl>.
+
 <niod-vk-pillars>
 	a void:Dataset ;
 	lib:source <http://purl.org/collections/nl/niod/> ;
