@@ -54,7 +54,7 @@
 	dcterms:title "Verrijkt Koninkrijk Pillarization links"@nl ;
 	void:dataDump
 		<pillars.ttl>,
-		<pillars_expanded>.
+		<pillars_expanded.ttl>.
 		
 <niod-vk-enrichments>
 	a void:Dataset ;
